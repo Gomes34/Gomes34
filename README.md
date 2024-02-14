@@ -1,7 +1,7 @@
 ## Hi there, here we go! 🤝
 
 
-🔵 I'm Euler (believe mem this is my name) <br>
+🔵 I'm Euler (believe me, this is my name) <br>
 🔵 I'm studying Golang <br>
 🔵 My favorite color is blue
 
