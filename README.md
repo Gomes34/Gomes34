@@ -6,10 +6,10 @@
 🔵 My favorite color is blue
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/Gomes34">
     <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=gomes34&theme=tokyonight&rank_icon=github&include_all_commits=true" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/Gomes34">
     <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gomes34&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   </a>
 </div>
