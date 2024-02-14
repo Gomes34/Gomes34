@@ -1,8 +1,14 @@
-## Hi there, here we go! 🤝
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0083FF&height=180&section=header" />
 
+<div>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=25&pause=1000&color=2E70F7&random=false&width=550&lines=Hi+there%2C+here+we+go!;I'm+Software+Engineer" alt="Typing SVG" /></a>
+</div>
+
+##
 
 🔵 I'm Euler (believe me, this is my name) <br>
 🔵 I'm studying Golang <br>
+🔵 I`m 19 years old <br>
 🔵 My favorite color is blue
 
 <div>
