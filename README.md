@@ -7,10 +7,10 @@
 
 <div>
   <a href="https://github.com/Gomes34">
-    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=gomes34&theme=tokyonight&rank_icon=github&include_all_commits=true" />
+    <img height=200em align="center" src="https://github-readme-stats.vercel.app/api?username=gomes34&theme=tokyonight&rank_icon=github&include_all_commits=true" />
   </a>
   <a href="https://github.com/Gomes34">
-    <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gomes34&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+    <img height=200em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gomes34&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
   </a>
 </div>
 
@@ -21,7 +21,6 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
