@@ -8,8 +8,8 @@
 
 🔵 I'm Euler (believe me, this is my name) <br>
 🔵 I'm studying Python <br>
-🔵 I`m 21 years old <br>
-🔵 I`m working on Grupo Lins Ferrão <br>
+🔵 I'm 21 years old <br>
+🔵 I'm working on Grupo Lins Ferrão <br>
 🔵 My favorite color is blue
 
 <div>
