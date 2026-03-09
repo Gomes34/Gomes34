@@ -22,7 +22,9 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" /> 
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-  <img align="center" height="50" width="60" src="https://skillicons.dev/icons?i=django,docker" />
+  <img align="center" height="50" width="60" src="https://skillicons.dev/icons?i=django" />
+  <img align="center" height="50" width="60" src="https://skillicons.dev/icons?i=docker" />
+  <img align="center" height="50" width="60" src="https://skillicons.dev/icons?i=git" />
           
 </div>        
 
