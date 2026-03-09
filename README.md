@@ -6,9 +6,9 @@
 
 ##
 
-🔵 I'm Euler (believe me, this is my name) <br>
-🔵 I'm studying Python <br>
-🔵 I'm 21 years old <br>
+⚫ I'm Euler (believe me, this is my name) <br>
+⚫ I'm studying Python <br>
+⚫ I'm 21 years old <br>
 
 
 ##
@@ -23,10 +23,6 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" /> 
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-
-          
-          
- 
           
 </div>        
 
