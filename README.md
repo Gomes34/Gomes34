@@ -38,6 +38,6 @@
 </div>
 
 <div>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gomes34&theme=blood-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=700&card_height=300" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Gomes34&theme=blood-dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=1200&card_height=300" alt="GitHub Streak" /></a>
 </div>
           
