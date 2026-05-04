@@ -17,7 +17,6 @@
 ##
 
 <p align="center">
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img height="50" width="60" src="https://skillicons.dev/icons?i=mysql" />
   <img height="50" width="60" src="https://skillicons.dev/icons?i=sqlite" />
