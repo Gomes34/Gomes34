@@ -17,16 +17,17 @@
 ##
 
 
-<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img height="50" width="60" src="https://skillicons.dev/icons?i=mysql" />
-<img height="50" width="60" src="https://skillicons.dev/icons?i=sqlite" />
-<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
-<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
-<img height="50" width="60" src="https://skillicons.dev/icons?i=postman" />
-<img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-<img height="50" width="60" src="https://skillicons.dev/icons?i=django" />
-<img height="50" width="60" src="https://skillicons.dev/icons?i=docker" />
-<img height="50" width="60" src="https://skillicons.dev/icons?i=git" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" width="60" style="display:inline-block; margin: 0 6px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" width="60" style="display:inline-block; margin: 0 6px;" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" width="60" style="display:inline-block; margin: 0 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="60" style="display:inline-block; margin: 0 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" height="50" width="60" style="display:inline-block; margin: 0 6px;" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" width="60" style="display:inline-block; margin: 0 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" height="50" width="60" style="display:inline-block; margin: 0 6px;" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" width="60" style="display:inline-block; margin: 0 6px;" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" width="60" style="display:inline-block; margin: 0 6px;" />
+</p>
 
 
 ##
